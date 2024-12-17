@@ -2,9 +2,9 @@ package com.in28minutes.springboot.ranga_learn_spring_framework.game;
 
 public class GameRunner {
     
-    private final MarioGame game;
+    private final SuperContraGame game;
     
-    public GameRunner(MarioGame game) {
+    public GameRunner(SuperContraGame game) {
         this.game = game;
     }
 
