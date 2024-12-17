@@ -1,5 +1,8 @@
 package com.in28minutes.springboot.ranga_learn_spring_framework.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class SuperContraGame implements GamingConsole{
 
     @Override
